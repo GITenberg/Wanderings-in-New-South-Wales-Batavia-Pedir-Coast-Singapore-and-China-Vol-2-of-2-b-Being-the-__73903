@@ -1,11 +1,16 @@
 _repo: Wanderings-in-New-South-Wales-Batavia-Pedir-Coast-Singapore-and-China-Vol-2-of-2-b-Being-the-__73903
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73903-h/images/cover.jpg
 creator:
   author:
     agent_name: Bennett, George Matthews
     gutenberg_agent_id: '45978'
     url: http://www.gutenberg.org/2009/agents/45978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73903#Wanderings-in-New-South-Wales-Batavia-Pedir-Coast-Singapore-and-China-Vol-2-of-2-b-Being-the-_
 gutenberg_issued: '2024-06-23'
 gutenberg_type: Text
 identifiers:
